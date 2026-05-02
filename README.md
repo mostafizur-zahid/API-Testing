@@ -31,7 +31,7 @@ The project demonstrates real-world **Software Quality Assurance (SQA)** practic
 
 ```bash
 ├── collection/
-│   └── Hotel Booking's API Test.postman_collection.json
+│   └── Hotel Booking API Test.postman_collection.json
 │
 ├── environment/
 │   └── DynamicVariable.postman_environment.json
